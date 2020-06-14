@@ -1,8 +1,3 @@
-# study
-study project
-
-
-
 
 package kr.co.moak.finalprj;
 
